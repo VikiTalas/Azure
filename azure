@@ -8,4 +8,4 @@ def convert_blue_to_azure(color):
 original_color = "blue"
 new_color = convert_blue_to_azure(original_color)
 print(f"The color {original_color} is converted to {new_color}")
-)2k
+)2
